@@ -18,6 +18,7 @@ baselineCNN & DenseNet
 # Computational Resources
 Colab Pro+ *2
 
+## About the files
 - baselineCNN.ipynb : 
 The original code of baselineCNN (2bin)
 
